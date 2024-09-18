@@ -1,0 +1,10 @@
+D:\me\北科學生\碩一上\課程檔案\數位影像處理\finial_project\finial_project\finial_project\bin\x64\Debug\finial_project.exe.config
+D:\me\北科學生\碩一上\課程檔案\數位影像處理\finial_project\finial_project\finial_project\bin\x64\Debug\finial_project.exe
+D:\me\北科學生\碩一上\課程檔案\數位影像處理\finial_project\finial_project\finial_project\bin\x64\Debug\finial_project.pdb
+D:\me\北科學生\碩一上\課程檔案\數位影像處理\finial_project\finial_project\finial_project\obj\x64\Debug\finial_project.csprojAssemblyReference.cache
+D:\me\北科學生\碩一上\課程檔案\數位影像處理\finial_project\finial_project\finial_project\obj\x64\Debug\finial_project.Form1.resources
+D:\me\北科學生\碩一上\課程檔案\數位影像處理\finial_project\finial_project\finial_project\obj\x64\Debug\finial_project.Properties.Resources.resources
+D:\me\北科學生\碩一上\課程檔案\數位影像處理\finial_project\finial_project\finial_project\obj\x64\Debug\finial_project.csproj.GenerateResource.cache
+D:\me\北科學生\碩一上\課程檔案\數位影像處理\finial_project\finial_project\finial_project\obj\x64\Debug\finial_project.csproj.CoreCompileInputs.cache
+D:\me\北科學生\碩一上\課程檔案\數位影像處理\finial_project\finial_project\finial_project\obj\x64\Debug\finial_project.exe
+D:\me\北科學生\碩一上\課程檔案\數位影像處理\finial_project\finial_project\finial_project\obj\x64\Debug\finial_project.pdb
